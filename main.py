@@ -4,8 +4,8 @@ import pandas as pd
 
 google_api = 'https://www.googleapis.com/pagespeedonline/v5/runPagespeed'
 url = 'https://www.databox.com'
-api_key = 'AIzaSyCm4wXpCvV5vvqfIifQCffmbOZeQg-ohpw'
-dbox_token = 'jrfxjrihrish0t9h2243'
+api_key = 'ADD YOUR GOOGLE API KEY HERE'
+dbox_token = 'ADD YOUR DATABOX API KEY HERE'
 
 #API Parameters
 #Available Categories: ['accessibility', 'best-practices', 'performance', 'pwa', 'seo']
